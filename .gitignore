@@ -1,0 +1,37 @@
+# Data and models
+data/
+training/
+*.db
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# Logs
+*.log
+app.log
+
+# IDE
+.vscode/
+.idea/
