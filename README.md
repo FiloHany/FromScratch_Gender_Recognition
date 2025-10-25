@@ -16,7 +16,7 @@ A deep learning-based gender detection system using Convolutional Neural Network
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/scratch-gender-detection.git
+   git clone https://github.com/FiloHany/FromScratch_Gender_Recognition.git
    cd scratch-gender-detection
    ```
 
